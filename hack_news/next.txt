@@ -1,0 +1,7 @@
+That's all for the guided steps, but feel free to keep going through the data and answering questions. We encourage you to think of your own questions, and to be creative in exploring the dataset!
+
+If you can't think of any questions, some interesting ones are:
+
+What headline length leads to the most upvotes?
+What submission time leads to the most upvotes?
+How are the total numbers of upvotes changing over time?
